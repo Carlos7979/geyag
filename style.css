@@ -1,0 +1,8 @@
+#logo-container {
+    display: flex;
+    flex-direction: column;
+}
+
+#geyag-logo {
+    max-width: 903px;
+}
